@@ -1,5 +1,3 @@
-<img src="me.jpg" width="120" align="right" alt="Sabir Hussein" />
-
 # Hi, I'm Sabir Hussein
 
 **AI-native product builder.** I ship polished, mobile-first, multilingual websites and web apps in days, using AI-assisted development, and I check every page with automated tests before it goes live.
