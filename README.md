@@ -1,6 +1,6 @@
 # Hi, I'm Sabir Hussein
 
-**AI-native product builder.** I ship polished, mobile-first, multilingual websites and web apps in days, using AI-assisted development, and I check every page with automated tests before it goes live.
+**Full-stack developer.** I build web applications and business websites end to end: data, sign-in and access control, APIs, fast mobile-first interfaces in many languages, testing and deployment.
 
 - **Builds:** Next.js, React, TypeScript, Astro, Tailwind CSS, GSAP, Node.js
 - **Data:** PostgreSQL with Prisma, MongoDB, Cloudflare D1
